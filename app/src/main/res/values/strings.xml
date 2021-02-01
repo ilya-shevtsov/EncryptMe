@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Encrypt Me</string>
+    <string name="result">Result</string>
+    <string name="encryption_hint">Text to encrypt …</string>
+    <string name="decryption_hint">Text to decrypt …</string>
+
+    <string name="q11">.11</string>
+    <string name="w24">.24</string>
+    <string name="e21">.21</string>
+    <string name="r12">.12</string>
+    <string name="t6">.6</string>
+    <string name="y15">.15</string>
+    <string name="u4">.4</string>
+    <string name="i26">.26</string>
+    <string name="o27">.27</string>
+    <string name="p9">.9</string>
+    <string name="a22">.22</string>
+    <string name="s29">.29</string>
+    <string name="d3">.3</string>
+    <string name="f1">.1</string>
+    <string name="g17">.17</string>
+    <string name="h18">.18</string>
+    <string name="j16">.16</string>
+    <string name="k13">.13</string>
+    <string name="l5">.5</string>
+    <string name="z33">.33</string>
+    <string name="x25">.25</string>
+    <string name="c19">.19</string>
+    <string name="v14">.14</string>
+    <string name="b10">.10</string>
+    <string name="n20">.20</string>
+    <string name="m30">.30</string>
+
+    <string name="space">.-</string>
+
+
+</resources>

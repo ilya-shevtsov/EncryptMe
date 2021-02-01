@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="10sp">
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginBottom="50sp"-->
+<!--        android:gravity="center"-->
+<!--        android:text="@string/title"-->
+<!--        android:textStyle="bold"-->
+<!--        android:textSize="30sp" />-->
+
+    <EditText
+
+        android:id="@+id/encryptionInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/encryption_hint"
+        android:textSize="20sp" />
+
+
+    <EditText
+        android:id="@+id/encryptionOutput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50sp"
+        android:hint="@string/result"
+        android:textSize="20sp" />
+    <EditText
+
+        android:id="@+id/decryptionInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/decryption_hint"
+        android:textSize="20sp" />
+
+
+    <EditText
+        android:id="@+id/decryptionOutput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50sp"
+        android:hint="@string/result"
+        android:textSize="20sp" />
+
+
+</LinearLayout>
